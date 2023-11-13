@@ -1,5 +1,5 @@
 import React from "react";
-import ApiDocs from "./ApiDocs";
+import ApiDocs from "./AppDocs";
 
 function App() {
   return (

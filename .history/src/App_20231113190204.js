@@ -1,5 +1,5 @@
-import React from "react";
-import ApiDocs from "./ApiDocs";
+import React from 'react';
+import ApiDocs from './ApiDocs';
 
 function App() {
   return (
@@ -8,5 +8,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
